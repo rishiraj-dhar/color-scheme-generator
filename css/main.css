@@ -51,7 +51,7 @@ button:focus-visible {
     box-shadow: 2px 2px 5px #c0c0c0;
 }
 
-@media (min-width: 675px) {
+@media (min-width: 850px) {
     .colour-scheme {
         display: flex;
         flex-direction: row;        
